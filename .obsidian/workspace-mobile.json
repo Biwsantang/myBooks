@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "88205676dc459f58",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5725bcaeed391b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aa3791c12ecf354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "team/meet-the-team.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6658e380b5aac26a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "53e31cde5860aad9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "41f2d955fb245742",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5060cd2f47203f66",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "51eb7fbf4dc0639b",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4981c820fd3c8f6b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b97a9834d535b935",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "team/meet-the-team.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fbf908f6acae055b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "team/meet-the-team.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b842aeaa068803f8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "team/meet-the-team.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6aa3791c12ecf354",
+  "lastOpenFiles": [
+    "SUMMARY.md",
+    "about-us/vision-mission-and-focus/README.md",
+    "README.md",
+    "collaborating/meetings.md",
+    "collaborating/how-we-work-together.md",
+    "collaborating",
+    "team/meet-the-team.md",
+    "team",
+    "policies/requesting-time-off.md",
+    "policies",
+    "about-us/vision-mission-and-focus/vision.md",
+    "about-us/vision-mission-and-focus/focus.md",
+    "about-us/vision-mission-and-focus/mission.md",
+    "about-us/vision-mission-and-focus",
+    "about-us/values.md",
+    "about-us"
+  ]
+}
